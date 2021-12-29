@@ -1,1 +1,1 @@
-# starter-template-wordpress
+# Starter Template Wordpress
